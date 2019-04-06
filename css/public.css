@@ -5,6 +5,7 @@ body {
 
   height: 100vh;
   text-align:center;
+  font-family:Microsoft YaHei
 }
 
 .bgContainer{
@@ -18,7 +19,7 @@ body {
 .background{
   height: 120vh;
   width: 120% ;
-  left: -10%;
+  left: -2%;
   top:0px;
 
   background-size: cover;
@@ -30,10 +31,9 @@ body {
   position: fixed;
   text-align: center;
 
-  width: 400px;
-
-  left: calc(50% - 210px);
-  top: calc(30% - 100px);
+  width: 600px;
+  left: calc(50% - 310px);
+  top: calc(40% - 100px);
   border-radius: 6px;
   border: none;
   z-index: 1;
